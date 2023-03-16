@@ -1,0 +1,15 @@
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work6\bin\Debug\net7.0\Work6.exe
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work6\bin\Debug\net7.0\Work6.deps.json
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work6\bin\Debug\net7.0\Work6.runtimeconfig.json
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work6\bin\Debug\net7.0\Work6.dll
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work6\bin\Debug\net7.0\Work6.pdb
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work6\obj\Debug\net7.0\Work6.csproj.AssemblyReference.cache
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work6\obj\Debug\net7.0\Work6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work6\obj\Debug\net7.0\Work6.AssemblyInfoInputs.cache
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work6\obj\Debug\net7.0\Work6.AssemblyInfo.cs
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work6\obj\Debug\net7.0\Work6.csproj.CoreCompileInputs.cache
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work6\obj\Debug\net7.0\Work6.dll
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work6\obj\Debug\net7.0\refint\Work6.dll
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work6\obj\Debug\net7.0\Work6.pdb
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work6\obj\Debug\net7.0\Work6.genruntimeconfig.cache
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work6\obj\Debug\net7.0\ref\Work6.dll
