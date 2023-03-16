@@ -1,0 +1,15 @@
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work5\obj\Debug\net7.0\Work5.csproj.AssemblyReference.cache
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work5\obj\Debug\net7.0\Work5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work5\obj\Debug\net7.0\Work5.AssemblyInfoInputs.cache
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work5\obj\Debug\net7.0\Work5.AssemblyInfo.cs
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work5\obj\Debug\net7.0\Work5.csproj.CoreCompileInputs.cache
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work5\bin\Debug\net7.0\Work5.exe
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work5\bin\Debug\net7.0\Work5.deps.json
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work5\bin\Debug\net7.0\Work5.runtimeconfig.json
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work5\bin\Debug\net7.0\Work5.dll
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work5\bin\Debug\net7.0\Work5.pdb
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work5\obj\Debug\net7.0\Work5.dll
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work5\obj\Debug\net7.0\refint\Work5.dll
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work5\obj\Debug\net7.0\Work5.pdb
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work5\obj\Debug\net7.0\Work5.genruntimeconfig.cache
+C:\Users\Alevtina\Desktop\ОБУЧЕНИЕ\Practic\LastWork\LastWork\Work5\obj\Debug\net7.0\ref\Work5.dll
